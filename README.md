@@ -106,6 +106,7 @@ Open http://localhost:3000 to view the app.
 ```
 
 # 📂 Project Structure
+```bash
 marktrabit/
 ├── app/
 │   ├── auth/callback/    # Handles OAuth redirect
@@ -116,6 +117,7 @@ marktrabit/
 ├── lib/
 │   └── supabase.ts       # Supabase client initialization
 └── public/               # Static assets
+```
 
 # License
 Developed by Aditya Taneja for the Astrabit Technologies technical assessment.
