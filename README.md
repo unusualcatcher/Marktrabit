@@ -10,6 +10,7 @@
 **A real-time, privacy-focused bookmark manager built for the Astrabit Technologies technical assessment.**
 
 [Live Demo](https://marktrabit.vercel.app/)
+(Visit https://marktrabit.vercel.app/ if the link isn't working)
 
 </div>
 
